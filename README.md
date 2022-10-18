@@ -1,6 +1,7 @@
 # EDA-project-ex
 
 **MAKE SURE YOUR REPOSITORY IS PRIVATE**
+
 **ALL other documents (project explainer, peer review) can be downloaded via brightspace**
 
 File structure *example* for final projects. Each project should have a readMe file that explains their file structure and key files. Yours should have a bit more detail than this example and should be tailored to your project (so feel free to adjust as useful, but make sure it is very organized).
