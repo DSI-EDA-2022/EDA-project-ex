@@ -25,3 +25,7 @@ File structure example for final projects. Each project should have a readMe fil
 
 - Final report that is an .rmd file.
 - Final slides.
+
+# Other notes:
+
+In the past, some people also wrote some notes for their team in the readME, such as key deadlines. That is fine! Include whatever else is helpful, but keep it clean, well organized, and not too long in length.
