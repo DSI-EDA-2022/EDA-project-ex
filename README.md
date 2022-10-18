@@ -31,10 +31,10 @@ File structure *example* for final projects. Each project should have a readMe f
 
 In the past, some people also wrote some notes for their team in the readME, such as key deadlines. That is fine! Include whatever else is helpful, but keep it clean, well organized, and not too long in length.
 
-Suggested timeline (you should adjust for your team):
+Suggested timeline (you should adjust for your team minus the first and last due dates):
 
-Week 1-2 : Choose data set and research topic (by 10/27)
-Week 3-4 : Wrangle data and perform analyses (by 11/10)
-Week 5-7 : Write draft research paper (by 11/30)
-Week 8 : Create presentation and practice presenting (by 11/7)
-Week finals : Edit and submit final research paper (due 12/11 at 11:59 PM, presentation on 12/12 at 9am-noon.)
+- Week 1-2 : Make repo + choose data set and research topic + get approval (due 10/26)
+- Week 3-4 : Wrangle data and perform analyses (by 11/10)
+- Week 5-7 : Write draft research paper (by 11/30)
+- Week 8 : Create presentation and practice presenting (by 11/7)
+- Week finals : Edit and submit final research paper (due 12/11 at 11:59 PM, presentation on 12/12 at 9am-noon.)
