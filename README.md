@@ -33,7 +33,7 @@ In the past, some people also wrote some notes for their team in the readME, suc
 
 Suggested timeline (you should adjust for your team minus the first and last due dates):
 
-- Week 1-2 : Make repo + choose data set and research topic + get approval (due 10/26)
+- Week 1-2 : Make repo + choose data sets and general research topic + get approval (due 10/26)
 - Week 3-4 : Wrangle data and perform analyses (by 11/10)
 - Week 5-7 : Write draft research paper (by 11/30)
 - Week 8 : Create presentation and practice presenting (by 11/7)
