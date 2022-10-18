@@ -2,11 +2,11 @@
 
 ** MAKE SURE YOUR REPOSITORY IS PRIVATE**
 
-File structure example for final projects. Each project should have a readMe file that explains their file structure and key files. Yours should have a bit more detail than this example and should be tailored to your project (so feel free to adjust as useful, but make sure it is very organized).
+File structure *example* for final projects. Each project should have a readMe file that explains their file structure and key files. Yours should have a bit more detail than this example and should be tailored to your project (so feel free to adjust as useful, but make sure it is very organized).
 
 1. Preprocessing folder
 
-- This folder contains organized and annotated R code for exploring the data, wrangling the data, joining data, and any other steps needed to get us to our final clean data csv file. There are 5 files:
+- This folder contains organized and annotated R code for exploring the data, wrangling the data, joining data, and any other steps needed to get us to our final clean data csv file. There are 2 files:
 
     1. cross-sectional analysis: In this section we performed an initial cross sectional analysis to better understand the our dataset. This is a collection of our initial notes that inspired the later analyses for the project. We looked into various aspect X, Y, and Z.
     2. case-study analysis: This folder contains code for our case study analysis where we zero in on one X to deeply exmaine patterns of A, B, and C.
