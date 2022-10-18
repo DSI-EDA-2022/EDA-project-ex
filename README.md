@@ -18,12 +18,13 @@ File structure example for final projects. Each project should have a readMe fil
 
 3. Main findings
 
-- In this folder you can run the final "main_findings.rmd" to easily replicate all of the main findings of our work. (Instructor note: anything that makes it into your final report or your presentation should be replicated here using the 'final data' csv you made but there could be other things you do not include in the report that you do include here).
+- In this folder you can run the final "main_findings.rmd" to easily replicate all of the main findings of our work. (Instructor note: anything that makes it into your final report or your presentation should be replicated here using the 'final data' csv you made).
 - This code should have brief annotations but not the full writing of the final report.
 
 4. Deliverables
 
-- Final report that is an .rmd file.
+- Final report: this can be using markdown (recommended to push yourself, use markdown) or via a word document.
+- FOR ALL FINAL DOCUMENTS, you must have high quality graphics and tables! No rough screenshots!
 - Final slides.
 
 # Other notes:
